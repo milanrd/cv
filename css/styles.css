@@ -16,9 +16,11 @@ h2{
     font-size: 2.5rem;
     font-weight: normal;
     padding-bottom:10px;
+    font-family: 'Montserrat', sans-serif;
 }
 h3{
     color: #11999E;
+    font-family: 'Montserrat', sans-serif;
 }
 .top-container{
     padding: 100px 0 0 0;
@@ -119,7 +121,7 @@ hr{
     background-color: #66BFBF;
     padding: 50px 0 20px 0;
     line-height: 2;
-    top
+    maragin-top: 50px;
 }
 .copyright{
     color: #EAF6F6;
