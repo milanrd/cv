@@ -28,7 +28,7 @@ h3{
     position: relative;
 }
 .pro{
-    text-decoration-line: underline;
+    text-decoration-line: underline;0px 40px 0px 40px
 }
 .bottom-cloud{
     position: absolute;
@@ -65,7 +65,7 @@ hr{
     color: #11999E;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
-    margin: 0px 40px 0px 40px;
+    margin: 10px 20px;
 
 }
 .footer-link:hover{
